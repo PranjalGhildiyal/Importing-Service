@@ -4,6 +4,7 @@ This is a Python script that includes functions to connect to a SQL server, fetc
 The Docstring is:
 
 Import()
+========
 
 - imports data from sharepoint and/or database.
 - merges them.
