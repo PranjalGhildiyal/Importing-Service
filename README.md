@@ -50,6 +50,7 @@ merge(`resampling_freq`, `default_primary_column`, `**kwargs`)
             -- param `**kwargs`: any key word arguments for asfreq function.
 
   - possible values of kwargs:
+  
                     -- method = 'ffill'
 
                     -- method = 'bfill'
